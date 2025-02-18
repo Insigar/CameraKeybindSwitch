@@ -1,0 +1,10 @@
+﻿{
+    "Id": "CameraKeybindSwitch",
+    "DisplayName": "CameraKeybindSwitch",
+    "Author": "Insigar",
+    "Version": "1.0.0",
+    "ManagerVersion": "0.24.0",
+    "Requirements": [],
+    "AssemblyName": "CameraKeybindSwitch.dll",
+    "EntryMethod": "CameraKeybindSwitch.Main.Load"
+}

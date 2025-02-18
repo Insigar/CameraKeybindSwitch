@@ -1,0 +1,2 @@
+C:\Users\Insigar\Downloads\WrathOfTheRighteous Modding Projects\CameraKeybindSwitch\CameraKeybindSwitch\obj\Debug\CameraKeybindSwitch.csproj.AssemblyReference.cache
+C:\Users\Insigar\Downloads\WrathOfTheRighteous Modding Projects\CameraKeybindSwitch\CameraKeybindSwitch\obj\Debug\CameraKeybindSwitch.csproj.CoreCompileInputs.cache

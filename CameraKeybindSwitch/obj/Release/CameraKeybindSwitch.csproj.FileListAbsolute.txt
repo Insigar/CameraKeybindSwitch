@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Steam\steamapps\common\Pathfinder Second Adventure\Mods\CameraKeybindSwitch\Info.json
+C:\Program Files (x86)\Steam\steamapps\common\Pathfinder Second Adventure\Mods\CameraKeybindSwitch\CameraKeybindSwitch.dll
+C:\Users\Insigar\Downloads\WrathOfTheRighteous Modding Projects\CameraKeybindSwitch\CameraKeybindSwitch\obj\Release\CameraKeybindSwitch.csproj.AssemblyReference.cache
+C:\Users\Insigar\Downloads\WrathOfTheRighteous Modding Projects\CameraKeybindSwitch\CameraKeybindSwitch\obj\Release\CameraKeybindSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Insigar\Downloads\WrathOfTheRighteous Modding Projects\CameraKeybindSwitch\CameraKeybindSwitch\obj\Release\CameraKeybindSwitch.dll
